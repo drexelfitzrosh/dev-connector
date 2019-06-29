@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://drexel911:drexel911@cluster0-fksjb.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "drexel911",
+  "githubClientId": "9c3b5a44ab9894273914",
+  "githubSecret": "c02e11a333eae9548914139fbc84de3a57181e17"
+}
